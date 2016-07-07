@@ -34,7 +34,6 @@
     "commit": "9367d5e0d493becbd0e5b907139c290b0eed23c3"
   },
   "_source": "https://github.com/h2non/jshashes.git",
-  "_target": "^1.0.5",
-  "_originalSource": "jshashes",
-  "_direct": true
+  "_target": "1.0.5",
+  "_originalSource": "jshashes"
 }
