@@ -1,0 +1,17 @@
+{
+    "directory": "libs",
+    "ignoredDependencies": [
+        "angular",
+        "angular-animate",
+        "angular-aria",
+        "angular-messages",
+        "angular-mocks",
+        "angular-sanitize",
+        "angular-ui-router",
+        "es6-promise",
+        "jquery",
+        "moment",
+        "moment-timezone",
+        "videojs"
+    ]
+}
